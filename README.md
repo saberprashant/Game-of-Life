@@ -12,3 +12,15 @@ npm install
 ```
 npm start  
 ```
+  
+### Want to contribute?  
+
+- Fork the repo on GitHub
+
+- Clone the project to your own machine
+
+- Commit changes to your own branch
+
+- Push your work back up to your fork on Github
+
+- Submit a Pull request :)
